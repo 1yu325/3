@@ -1,0 +1,9 @@
+znjj\usart2.o: ..\WIFI\HARDWARE\USART2\usart2.c
+znjj\usart2.o: ..\App\delay.h
+znjj\usart2.o: ..\App\sys.h
+znjj\usart2.o: ..\WIFI\HARDWARE\USART2\usart2.h
+znjj\usart2.o: D:\keil\ARM\ARM506\Bin\..\include\stdarg.h
+znjj\usart2.o: D:\keil\ARM\ARM506\Bin\..\include\stdio.h
+znjj\usart2.o: D:\keil\ARM\ARM506\Bin\..\include\string.h
+znjj\usart2.o: ..\WIFI\BLE\ble_cfg.h
+znjj\usart2.o: ..\WIFI\BLE\ble_app.h

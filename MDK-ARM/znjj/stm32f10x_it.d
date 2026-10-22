@@ -1,0 +1,9 @@
+znjj\stm32f10x_it.o: ..\WIFI\USER\stm32f10x_it.c
+znjj\stm32f10x_it.o: ..\WIFI\USER\stm32f10x_it.h
+znjj\stm32f10x_it.o: ..\WIFI\USER\stm32f10x.h
+znjj\stm32f10x_it.o: ../Drivers/CMSIS/Include/core_cm3.h
+znjj\stm32f10x_it.o: D:\keil\ARM\ARM506\Bin\..\include\stdint.h
+znjj\stm32f10x_it.o: ../Drivers/CMSIS/Include/core_cmInstr.h
+znjj\stm32f10x_it.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+znjj\stm32f10x_it.o: ../Drivers/CMSIS/Include/core_cmFunc.h
+znjj\stm32f10x_it.o: ..\WIFI\USER\system_stm32f10x.h
